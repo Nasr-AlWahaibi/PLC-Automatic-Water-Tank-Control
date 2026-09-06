@@ -41,9 +41,9 @@ The project was tested using RSLogix Emulate 500.
 
 Three simulation tests were performed:
 
-1. Normal Operation — Automatic filling from low level to high level.
-2. Timeout Fault — Verification of the 30-second filling timeout and alarm.
-3. Safety & Reset — Verification of protection and fault reset operation.
+1. [Normal Operation](Videos/01_Normal_Operation.mp4) — Automatic filling from low level to high level.
+2. [Timeout Fault](Videos/02_Timeout_Fault.mp4) — Verification of the 30-second filling timeout and alarm.
+3. [Safety & Reset](Videos/03_Safety_and_Reset.mp4) — Verification of protection and fault reset operation.
 
 ## What I Learned
 
